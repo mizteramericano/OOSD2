@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ExpressShipping
+comment1.params=weightKg
+comment1.target=double\ calculate(double)
+numComments=2

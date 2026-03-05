@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ShippingCalculator
+comment1.params=strategy
+comment1.target=void\ setStrategy(ShippingStrategy)
+comment2.params=weightKg
+comment2.target=double\ calculateFee(double)
+numComments=3
