@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DiscountCalculator
+comment1.params=strategy
+comment1.target=void\ setStrategy(DiscountStrategy)
+comment2.params=totalCost
+comment2.target=double\ discountFee(double)
+numComments=3
