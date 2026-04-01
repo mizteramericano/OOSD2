@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=VipDiscount
+comment1.params=totalAmount
+comment1.target=double\ calculate(double)
+numComments=2
