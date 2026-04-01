@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=TaxStrategy
+comment1.params=price
+comment1.target=double\ taxCalculate(double)
+numComments=2

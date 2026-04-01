@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TaxCalculator
+comment1.params=strategy
+comment1.target=void\ setStrategy(TaxStrategy)
+comment2.params=price
+comment2.target=double\ taxCalculate(double)
+numComments=3
