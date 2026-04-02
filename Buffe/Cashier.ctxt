@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Cashier
+comment1.params=strategy
+comment1.target=void\ setStrategy(BuffetStrategy)
+comment2.params=customerCount
+comment2.target=double\ calculatePrice(int)
+numComments=3

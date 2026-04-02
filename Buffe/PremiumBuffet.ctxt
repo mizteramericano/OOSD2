@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=PremiumBuffet
+comment1.params=customerCount
+comment1.target=double\ calculatePrice(int)
+numComments=2

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=BuffetFactory
+comment1.params=type
+comment1.target=BuffetStrategy\ createPackage(java.lang.String)
+numComments=2
